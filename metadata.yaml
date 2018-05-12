@@ -1,0 +1,33 @@
+_repo: Cathedral-Cities-of-England_34210
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Collins, W. W. (William Wiehe)
+    alias: Collins, William Wiehe
+    birthdate: 1862
+    deathdate: 1951
+    gutenberg_agent_id: '35751'
+    url: http://www.gutenberg.org/2009/agents/35751
+covers:
+- cover_type: archival
+  image_path: 34210-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gilbert, George
+    gutenberg_agent_id: '36874'
+    url: http://www.gutenberg.org/2009/agents/36874
+description: ''
+gutenberg_issued: '2010-11-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34210'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Description and travel'
+- !lcc 'DA'
+- !lcsh 'Cathedrals -- England'
+title: Cathedral Cities of England
+url: http://www.gutenberg.org/ebooks/34210
